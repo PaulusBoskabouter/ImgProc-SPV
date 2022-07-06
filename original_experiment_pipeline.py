@@ -1,7 +1,7 @@
 """
 # Author       : Paul Verhoeven
 # Date         : 25-03-2022
-This is the main pipeline of this test.
+This is the main pipeline of this test. This was unmodified and cannot be run as the DVS videos and SPV are missing.
 """
 
 import cv2
