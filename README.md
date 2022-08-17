@@ -15,7 +15,7 @@ In prompt.py staan alle GUI's die gebruikt zijn
 
 In original_experiment_pipeline.py staat de originele code, deze draait dus niet door het gebrek aan SPV en DVS.
 
-##Controls
+## Controls
 
 In modified_pipeline.py zijn de controls als volgt:
 Als de variabele MODE op adaptive staat kan je met de muis de threshold (links en rechts ) en sigma (boven + beneden) aanpassen. Tijdens de video's kan je altijd de spatiebalk gebruiken om de video vroegtijdig te beïndigen. 
